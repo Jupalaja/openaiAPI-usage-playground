@@ -1,3 +1,6 @@
+"""
+Merge of the files to get users API token usage by user
+"""
 import json
 import requests
 import datetime
