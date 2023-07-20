@@ -1,3 +1,7 @@
+
+"""
+List users information provided the organization ID 
+"""
 import os
 import json
 import requests
