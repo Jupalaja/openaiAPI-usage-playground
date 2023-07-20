@@ -1,0 +1,39 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Python environment
+.env/
+venv/
+env/
+env.bak/
+ENV/
+
+# Pipenv
+.Python
+pipfile.lock
+pipfile.lock.bak
+
+# Pytest
+pytest_cache/
+
+# Coverage
+.coverage/
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# JSON files
+*.json
